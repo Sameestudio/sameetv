@@ -18,7 +18,7 @@ http://103.213.31.109:90/DDBharati/playlist.m3u8
 #EXTINF:-1 tvg-id="DANGAL.in" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png" group-title="🎭 Entertainment",Dangal • IN
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="SET.HD.in" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png" group-title="🎭 Entertainment",Sony TV HD • IN
-http://116.90.120.151:8000/play/a0gp/index.m3u8
+https://mflixott.com/tv/plusbox/live/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-id="Star.Bharat.in" tvg-logo="https://cdn.smartads.in/images/product/television/Star-Bharat.png" group-title="🎭 Entertainment",Star Bharat • IN
 http://116.90.120.151:8000/play/a0h2/index.m3u8
 #EXTINF:-1 tvg-id="TV.Asia.Powered.by.Shemaroo.in" tvg-logo="https://tv-asia.keylines.net.in/wp-content/uploads/2023/08/TV_Asia_Logo_White_org.png" group-title="🎭 Entertainment",TV Asia • US
@@ -26,7 +26,7 @@ http://tvscreen.icu:8080/3D7Qnm/742180/125819
 #EXTINF:1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/T%20Series.jpg?raw=true" tvg-name="T Series" group-title="🎭 Entertainment",T Series
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="🎭 Entertainment",StarPlus HD
-http://103.175.242.10:8080/starplus/index.
+http://103.175.242.10:8080/starplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPA1-1YPxz2AF2m9I4WjJzaAFJFlJWPtl-tBeRi8Nok16Auw_tuIUzbozhgkbnW751QMOkLs_Ae-42yU270fCHyhn-mSiivpUFHJg8ujBY_txqh1SDSqc24MWfHlJbrbOODkivrkl1JkOhHiKAk4VdWWRGrgyz0eGEe4CoVoag-9QgrPNsh_5Y9RFGIZQ/s320/Picsart_24-10-13_11-33-24-391.jpg" group-title="🎭 Entertainment",SONY SAB (UK)
 #https://tigerhub-bd.vercel.app/SONY/Sab-UK/tracks-v1a1/mono.ts.m3u8
 http://206.212.244.71:8080/BRIDGITS@YAHOO.COM/BRIDGITS@2022/125809
